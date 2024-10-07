@@ -5,7 +5,7 @@ metadata:
   description: A sample API that provides weather forecast information.
   annotations:
     github.com/project-slug: rrrraj729/Wheather-api
-    backstage.io/api-spec: https://github.com/rrrraj729/Wheather-api/blob/Talentica-backstage-integration/Wheather-api/api/weather-api-swagger.json
+    # backstage.io/api-spec: https://github.com/rrrraj729/Wheather-api/blob/Talentica-backstage-integration/Wheather-api/api/weather-api-swagger.json
 spec:
   type: openapi
   lifecycle: production
